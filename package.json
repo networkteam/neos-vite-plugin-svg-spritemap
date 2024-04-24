@@ -1,6 +1,6 @@
 {
   "name": "@networkteam/vite-plugin-svg-sprites",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Generates a SVG spritemap from multiple .svg files",
   "author": "Rasmus Schmidt <rasmus.schmidt@networkteam.com>",
   "private": false,
